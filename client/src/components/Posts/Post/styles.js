@@ -16,7 +16,7 @@ export default makeStyles({
     card: {
         display: 'flex',
         flexDirection: 'column',
-        justifyContent: 'center',
+        justifyContent: 'space-between',
         borderRadius: '15px',
         height: '100%',
         position: 'relative'
